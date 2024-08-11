@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserDirectory</string>
+    <string name="menu_exit">Выход</string>
+    <string name="editTextHintName">Введите имя</string>
+    <string name="editTextHintAge">Введите возраст</string>
+    <string name="buttonText">Сохранить</string>
+</resources>
